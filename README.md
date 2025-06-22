@@ -9,15 +9,36 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"/>
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Nest.js
-  - Angular
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 💜I love streaming on twitch, 🎮 playing videogames, 🎵 listening to music, and 📖 reading science books.
-- 👾 Additionally, I create content about programming/technology on my social media, so feel free to check out my profile!
-- 📫 Reach out to me at: <a href="valenwerlecontacto@gmail.com">valenwerlecontacto@gmail.com</a>
+👋 Hi there! I'm a Mechatronics Engineering graduate, soon to be officially titled, with a strong focus on embedded systems, IoT, and full-stack software development. I'm passionate about building tech solutions that combine hardware and software to solve real-world problems.
+
+💻 I've worked on projects involving microcontrollers, Raspberry Pi, MQTT protocol, and full-stack web development using Python, Flask, FastAPI, HTML, CSS, and JavaScript. I’m currently part of a team developing a platform for secure mobile device exchanges, and I’m constantly looking to expand my knowledge.
+
+🌱 Currently learning:
+- Android app development (using Android Studio and Kotlin).
+- Hardware-to-web service integration.
+- Best practices for security in distributed systems.
+  
+🤝 Looking to collaborate on:
+- Software development for embedded systems.
+- Firmware projects for mobile phones:
+  My goal is to learn, gain hands-on experience, and contribute with my current skills.
+
+🔭 I’m currently working in proyect with some friends called TechExchange.
+
+📄 Know about my experiences <a href="#">Resume</a>.
+
+💬 Ask me about:
+IoT, Python, microcontrollers, Flask/FastAPI backend development, hardware-software integration, and how to get started in embedded systems.
+
+🚀 Outside of coding, I’m deeply interested in mobile phones, their operating systems, and how they connect to the physical world. I also enjoy sharing what I learn, solving technical challenges, and exploring new ideas.
+
+📫 Reach me for a faster contact at: <a href="hanma_toji@hotmail.com">hanma_toji@hotmail.com</a>
+
+### 🔗 &nbsp;Contact Me
+
+<a href= "https://www.linkedin.com/in/gustavo-andrey-patlan-cartagena-422202261/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
