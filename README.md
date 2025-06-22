@@ -48,5 +48,35 @@ IoT, Python, microcontrollers, Flask/FastAPI backend development, hardware-softw
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
+<a href= "hanma_toji@hotmail.com">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+</a>
+
+## 🛠️ Development Profiles
+
+<a href= "https://codigofacilito.com/usuarios/HanmaToji">
+    <img src="https://img.shields.io/badge/CÓDIGO_FACILITO-0DC067.svg?style=for-the-badge">
+</a>
+
+<a href= "https://www.udemy.com/user/gustavo-andrey-patlan-cartagena/">
+    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white">
+</a>
+
+<a href= "https://www.hackerrank.com/profile/hanmastudios2023">
+    <img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white">
+</a>
+
+<a href= "https://learn.microsoft.com/es-es/users/hanmatoji/">
+    <img src="https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white">
+</a>
+
+<a href= "https://www.datacamp.com/portfolio/shinmahoraga">
+    <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860">
+</a>
+
+<a href= "https://www.coursera.org/user/626e1692c36eaa37d7791528e78f4a5c">
+    <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white">
+</a>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
