@@ -48,10 +48,6 @@ IoT, Python, microcontrollers, Flask/FastAPI backend development, hardware-softw
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
-<a href= "hanma_toji@hotmail.com">
-    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-</a>
-
 ## 🛠️ Development Profiles
 
 <a href= "https://codigofacilito.com/usuarios/HanmaToji">
@@ -80,3 +76,60 @@ IoT, Python, microcontrollers, Flask/FastAPI backend development, hardware-softw
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
+
+<h4> Languages </h4>
+<span> 
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+</span>
+
+<h4> Front-End </h4>
+<span> 
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
+</span>
+
+<h4> Databases </h4>
+<span> 
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
+</span>
+
+<h4> Microcontrollers </h4>
+<span> 
+  <img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/ESP32-000000.svg?style=for-the-badge">
+</span>
+
+<h4> Other Tools and Technologies </h4>
+<span> 
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/SolidWorks-fd0000.svg?style=for-the-badge">
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101">
+  <img src="https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+</span>
+
+<h4> Relevant Certifications </h4>
+
+<span>
+  <a href= "https://learn.microsoft.com/es-es/users/hanmatoji/credentials/25507273be3b631?ref=https%3A%2F%2Fwww.linkedin.com%2F">
+    <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white">
+  </a>
+  <a href= "https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-K9B8VQNPF6">
+    <img src="https://img.shields.io/badge/CSWA-fd0000.svg?style=for-the-badge">
+  </a>
+  <a href= "https://cv.virtualtester.com/qr/?b=SLDWRKS&i=C-TF65S8PYVG">
+    <img src="https://img.shields.io/badge/CSWP-fd0000.svg?style=for-the-badge">
+  </a>
+</span>
