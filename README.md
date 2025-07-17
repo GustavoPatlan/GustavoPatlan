@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sic+Parvis+Magna+-+Francis+Drake;%E4%BE%BF%E5%88%A9%E3%81%95%E3%81%A8%E5%BF%AB%E9%81%A9%E3%81%95%E3%81%AF%E5%90%8C%E3%81%98%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84+-+Senshi" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Sic+Parvis+Magna+-+Francis+Drake;%E4%BE%BF%E5%88%A9%E3%81%95%E3%81%A8%E5%BF%AB%E9%81%A9%E3%81%95%E3%81%AF%E5%90%8C%E3%81%98%E3%81%A7%E3%81%AF%E3%81%AA%E3%81%84+-+Senshi;But+I'm+your+monster+no+longer+-+Kratos;M%C3%A1s+valor+significa+m%C3%A1s+poder+-+Max+Steel" alt="Typing SVG"/>
   </a>
 </p>
 
