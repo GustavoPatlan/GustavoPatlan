@@ -27,7 +27,7 @@
 
 🔭 I’m currently working in proyect with some friends called TechExchange.
 
-📄 Know about my experiences <a href="https://github.com/GustavoPatlan/GustavoPatlan/blob/main/Gustavo_Patlan_En_CV_2025.pdf">Resume</a>.
+📄 Know about my experiences <a href="https://github.com/GustavoPatlan/GustavoPatlan/blob/main/CV_HW_2025.pdf">Resume</a>.
 
 💬 Ask me about:
 IoT, Python, microcontrollers, Flask/FastAPI backend development, hardware-software integration, and how to get started in embedded systems.
