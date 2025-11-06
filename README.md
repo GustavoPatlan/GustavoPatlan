@@ -11,7 +11,7 @@
 
 <img align="right" width=300px alt="Unicorn" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true"/>
 
-👋 Hi there! I'm a Mechatronics Engineering graduate, soon to be officially titled, with a strong focus on embedded systems, IoT, and full-stack software development. I'm passionate about building tech solutions that combine hardware and software to solve real-world problems.
+👋 Hi there! I'm a titled Mechatronics Engineering, with a strong focus on embedded systems, IoT, and full-stack software development. I'm passionate about building tech solutions that combine hardware and software to solve real-world problems.
 
 💻 I've worked on projects involving microcontrollers, Raspberry Pi, MQTT protocol, and full-stack web development using Python, Flask, FastAPI, HTML, CSS, and JavaScript. I’m currently part of a team developing a platform for secure mobile device exchanges, and I’m constantly looking to expand my knowledge.
 
